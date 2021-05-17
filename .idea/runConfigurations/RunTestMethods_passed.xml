@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RunTestMethods.passed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="precommit_tests_run_mvn" />
+    <option name="PACKAGE_NAME" value="" />
+    <option name="MAIN_CLASS_NAME" value="RunTestMethods" />
+    <option name="METHOD_NAME" value="passed" />
+    <option name="TEST_OBJECT" value="method" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
